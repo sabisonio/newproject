@@ -8,6 +8,10 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
+
+        <activity android:name=".login_page">
+
+        </activity>
     </application>
 
 
