@@ -11,9 +11,6 @@ public class register_page extends Activity{
     protected void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
         setContentView(R.layout.register_page);
-        if (1==1)
-        {
 
-        }
     }
 }
